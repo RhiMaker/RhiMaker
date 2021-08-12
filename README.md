@@ -1,4 +1,4 @@
-## Hey there! I'm RhiMaker. ![RUNOOB 图标](https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif)
+## Hey there! I'm RhiMaker. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 [CSDN](https://blog.csdn.net/RhiTake)
 
 <!--
