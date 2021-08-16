@@ -1,5 +1,5 @@
 ## Hey there! I'm RhiMaker. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-[Blog](https://www.cnblogs.com/RhiMaker/)
+[Blog](https://www.rhimaker.com/)
 
 
 
